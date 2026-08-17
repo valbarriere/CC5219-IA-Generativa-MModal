@@ -59,5 +59,5 @@ Como material de apoyo adicional, se incluyen dos tutoriales introductorios en [
 
 #### Videos
 
-* Una explicacion mas en detalles de los AE varacionales: [https://www.youtube.com/watch?v=qJeaCHQ1k2w](https://www.youtube.com/watch?v=qJeaCHQ1k2w)
+* Una explicacion mas en detalles de los AE variacionales: [https://www.youtube.com/watch?v=qJeaCHQ1k2w](https://www.youtube.com/watch?v=qJeaCHQ1k2w)
 
