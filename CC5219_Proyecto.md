@@ -29,7 +29,7 @@ Algunas ideas generales, para que busquen la suya:
 - Debe correr en Colab gratuito (GPU T4) en menos de una hora, pero si tienen mas computo esta bien tambien.
 - Pueden usar asistentes de IA para programar, pero deben declararlo. **Ambos integrantes deben poder explicar el código**.
 
-## Entregable
+## Entregables
 
 Un notebook ejecutable de principio a fin y un informe  (notebook) de 1–2 páginas con:
 
@@ -38,6 +38,8 @@ Un notebook ejecutable de principio a fin y un informe  (notebook) de 1–2 pág
 - Resultados en una tabla o figura.
 - Análisis de 5–10 errores concretos.
 - Limitaciones y cómputo usado.
+
+Ademas de eso, los estudiantes deberan hacer una presentacion de 15mn para mostrar lo que han hecho. 
 
 ## Rúbrica (7 puntos)
 

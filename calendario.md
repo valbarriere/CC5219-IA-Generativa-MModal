@@ -23,5 +23,5 @@
 |   12   | 02/11 - 08/11    | **Lun 02/11**: Técnicas Avanzadas (1/3) — Agentes, Razonamiento y Uso de Herramientas </br> **Mier 04/11**: Técnicas Avanzadas (2/3) — Adaptación de LLMs e Interpretabilidad                            | Lab 5 (Multimodal LLMs)                                |                                                    |
 |   13   | 09/11 - 15/11    | **Mier 11/11**: Técnicas Avanzadas (3/3) — Modelos Multimodales para Series Temporales de Imágenes Satelitales *[Técnicas Avanzadas termina]* | Lab 5 (Multimodal LLMs) + Apoyo proyecto                                 |                **15/11 Entrega Laboratorio 5**                                                 |
 |   14   | 16/11 - 22/11    | *(sin clase de cátedra; trabajo proyecto)*                                                          |                      Apoyo proyecto           | Mini-control Avanzado asignado                                  |
-|   15   | 23/11 - 29/11    | **Lun 23/11, 10:30-12:00 (1h30)**: Presentaciones de los estudiantes (tarea del curso)                       |                                  |  **FIN DEL SEMESTRE** 🎉🎉🎉      |
+|   15   | 23/11 - 29/11    | **Lun 23/11, 10:30-12:00 (1h30)**: Presentaciones de los estudiantes (proyecto del curso)                       |                                  |  **FIN DEL SEMESTRE** 🎉🎉🎉      |
 
