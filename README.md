@@ -41,8 +41,8 @@ Cada bloque tiene:
 * Un mini ccontrol de 15mn 
 
 Ademas vamos a tener: 
-* Una presentacion de un paper de investigacion 
-* Una tarea a definir 
+* Una presentacion de un paper de investigacion: [mas informacion aca](CC5219_Presentacion.md)
+* Una tarea a definir: [mas informacion aca](CC5219_Tarea.md)
 
 ## Material complementario
 
